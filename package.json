@@ -1,0 +1,21 @@
+{
+  "name": "hred",
+  "version": "1.0.0",
+  "description": "a little mern app to showcase dependencies integration",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ezektec-inc",
+    "little",
+    "mern",
+    "app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EzekTec-Inc/hred_in_mern_stack.git"
+  },
+  "author": "EzekTec-Inc (Engr. Stephen Ezekwem)",
+  "license": "ISC"
+}
