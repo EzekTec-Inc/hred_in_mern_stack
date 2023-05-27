@@ -17,5 +17,11 @@
     "url": "https://github.com/EzekTec-Inc/hred_in_mern_stack.git"
   },
   "author": "EzekTec-Inc (Engr. Stephen Ezekwem)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.2.3",
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0"
+  }
 }
